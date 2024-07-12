@@ -23,4 +23,4 @@ I have 5 years of experience in software development. Completed my master's in c
 - In general I'm okay using any software needed to get the job done
 - 📫 How to reach me? email would be a good option: rapolunagarjuna@gmail.com, or linkedin: https://www.linkedin.com/in/rapolunagarjuna
 
-I like watching soccer (big fan of Arsenal), singing sometimes, listening to podcasts, going on a walk in my free time.
+In my free time I like watching soccer (big fan of Arsenal), singing sometimes, listening to podcasts, going on a walk.
