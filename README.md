@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Nagarjuna with 5 years of experience in software development. Completed my master's in computer science. 
 
 <!--
 **rapolunagarjuna/rapolunagarjuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building an app which can gamify being motivated. 
+- 🔭 I’m currently working on building an app which can gamify being motivated.
+- Trying to maintain a streak on Leetcode
 - Previously used languages like Go, Java, Python, torelate Javscript
 - Frameworks comfortable using Gin, Spring Boot, Django, Express, React.
 - In general I'm okay using any software needed to get the job done
