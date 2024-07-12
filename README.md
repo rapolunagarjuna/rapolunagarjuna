@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nagarjuna with 5 years of experience in software development. Completed my master's in computer science. 
+## Hi there 👋 I'm Nagarjuna Rapolu 
 
 <!--
 **rapolunagarjuna/rapolunagarjuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have 5 years of experience in software development. Completed my master's in computer science.
 
 - 🔭 I’m currently working on building an app which can gamify being motivated.
 - Trying to maintain a streak on Leetcode
